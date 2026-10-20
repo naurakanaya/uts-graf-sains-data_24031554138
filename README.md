@@ -1,6 +1,8 @@
 # UTS Graf Sains Data 2026/2027: Neo4j Python Driver and Recommendation
 
-**Name:** Naura Kanaya Putri Masruri  **NIM:** 24031554138  **Class:** INT24
+**Name:** Naura Kanaya Putri Masruri  
+**NIM:** 24031554138  
+**Class:** INT24
 **Course:** Graf Sains Data, S1 Sains Data, Universitas Negeri Surabaya
 
 An item-based KNN recommender built on the [RetailRocket e-commerce dataset](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset), using Neo4j as the graph store and the Neo4j Python driver for import, querying and similarity write-back.
@@ -9,7 +11,7 @@ An item-based KNN recommender built on the [RetailRocket e-commerce dataset](htt
 
 ```
 .
-├── UTS_Graph_Naura_Kanaya_Putri_Masruri_24031554138.ipynb   # full documented notebook (all answers)
+├── UTS_Graph_Naura_Kanaya_Putri_Masruri_24031554138.ipynb  
 ├── requirements.txt
 ├── data/
 │   ├── events_filtered.csv   # P1 + P2 events (filtered by timestamp)
