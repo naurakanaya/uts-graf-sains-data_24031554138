@@ -3,6 +3,7 @@
 **Name:** Naura Kanaya Putri Masruri  
 **NIM:** 24031554138  
 **Class:** INT24
+
 **Course:** Graf Sains Data, S1 Sains Data, Universitas Negeri Surabaya
 
 An item-based KNN recommender built on the [RetailRocket e-commerce dataset](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset), using Neo4j as the graph store and the Neo4j Python driver for import, querying and similarity write-back.
