@@ -1,0 +1,24 @@
+# Virtual environment
+myvenv/
+.venv/
+venv/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Credentials
+.env
+*.env
+
+# Raw Kaggle files (too big for GitHub)
+ecommerce-dataset.zip
+data/events.csv
+data/item_properties_part1.csv
+data/item_properties_part2.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
