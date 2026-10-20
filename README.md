@@ -22,7 +22,7 @@ An item-based KNN recommender built on the [RetailRocket e-commerce dataset](htt
 
 The raw `data/events.csv` (about 94 MB) is not uploaded. Download it from Kaggle and place it in `data/` to re-run the notebook.
 
-## Periods (from the class spreadsheet)
+## Periods
 
 - **P1 (training):** 21 Aug - 29 Aug 2015, 157,544 events
 - **P2 (testing):** 30 Aug - 07 Sep 2015, 155,128 events
